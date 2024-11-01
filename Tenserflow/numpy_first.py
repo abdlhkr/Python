@@ -160,4 +160,4 @@ print(yeniDizi[isBigger]) # 50 den büyük olanları getirir uzun yol gibi
 print(yeniDizi)
 print(yeniDizi + yeniDizi)
 print(yeniDizi * yeniDizi)
-print(yeniDizi / yeniDizi) # 0 olanlar 0/0 olduğu için nan olur hata vermez 
+print(yeniDizi / yeniDizi) # 0 olanlar 0/0 olduğu için nan olur hata vermez ""
