@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Mack",
+        "price": 80000
+    },
+    {
+        "id": 2,
+        "title": "M3 Mackbook Ultra",
+        "price": 999999
+    },
+    {
+        "id": 3,
+        "title": "poşet",
+        "price": 1
+    }
+]

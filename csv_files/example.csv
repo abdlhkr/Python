@@ -1,0 +1,7 @@
+ID,ProductName,Price,IsActive,Category,Rating
+1, Iphone 11,40000,True,Telefon,4.5
+2, Iphone 12,40000,False,Telefon,4.6
+3, Iphone 13,40000,True,Telefon,4.7
+4, Iphone 14,40000,False,Telefon,4.8
+5, Iphone 15,40000,False,Telefon,4.9
+6, Iphone 16,40000,True,Telefon,5.0
