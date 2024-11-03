@@ -1,4 +1,0 @@
-1 ) root boyutunu fixleyip fazladan öğeleri aşağı 
-doğru slider şeklinde nasıl yaparım
-
-2) 
