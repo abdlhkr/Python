@@ -37,3 +37,4 @@ print(pivot_table_default)
 # en sonda aggfunc ile hangi işlemin uygulanmasını istediğimizi belirtebiliriz
 pivot_table_sum = yeniDataFrame.pivot_table(values= "yas", index= ["karakter sinifi", "karakter ismi"], aggfunc= np.sum)
 print(pivot_table_sum)
+# ortam değişkeni nasıl eklerim
