@@ -10,7 +10,7 @@ pandasFrame = pd.read_csv("TenserFlow/gym_members_exercise_tracking.csv")
 print(pandasFrame.columns)
 print(pandasFrame.head())
 
-
+# I take the data from kaggle and just play with it
 egitimSeti = pandasFrame[["Age","Weight (kg)","Height (m)","Workout_Frequency (days/week)","Max_BPM","Avg_BPM","Experience_Level"]].values
 sonucSeti = pandasFrame["Calories_Burned"].values
 
